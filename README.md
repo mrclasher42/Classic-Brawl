@@ -1,4 +1,4 @@
-# Classic Brawl
+# idk Brawl
 
 Simple Brawl Stars v26.184 server emulator written in Python.
 
